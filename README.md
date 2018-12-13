@@ -1,2 +1,2 @@
 # hello-world
-update-test
+remote-test
